@@ -1,6 +1,6 @@
 # desafio1fullcycle
 Desafio Go
-# Instruções
+# Instruções de uso
 ```abuild
 docker run alvieirajr/codeeducation
 ```
